@@ -3,6 +3,8 @@
 * :mortar_board: I study Computer Science at Hanyang University(ERICA). 
 * :email: Email: o0o2211915@gmail.com
 * :earth_asia: Blog: https://hello-i-t.tistory.com/
+* 🌎 LinkedIn:  www.linkedin.com/in/yejin-park-28a3a314b/
+
 
 <br>
 
