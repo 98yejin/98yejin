@@ -1,6 +1,6 @@
 ## Hi! I'm Yejin [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98yejin%2Fhit-counter&count_bg=%23E79AD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * :seedling: I'm interested in IT Automation and Data. 
-* :mortar_board: I study Computer Science at Hanyang University(ERICA). 
+* :mortar_board: I studying Computer Science at Hanyang University(ERICA). 
 * :email: Email: o0o2211915@gmail.com
 * :earth_asia: Blog: https://hello-i-t.tistory.com/
 * 🌎 LinkedIn:  www.linkedin.com/in/yejin-park-28a3a314b/
