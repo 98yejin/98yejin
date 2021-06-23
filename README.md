@@ -36,3 +36,4 @@
 * [IBM Cloud Essentials](https://www.credly.com/badges/b1f69c69-6188-47a3-8c31-7f6e49e88bd0?source=linked_in_profile)
 * [IBM Cloud Core](https://www.credly.com/badges/0727186c-dbec-4d52-9d6e-5f83edb2347b?source=linked_in_profile)
 * [HackerRank SQL(Basic)](https://www.hackerrank.com/certificates/3dd03ae21beb)
+* [RHCSA(Red Hat Certified System Administrator)](https://rhtapps.redhat.com/certifications/badge/verify/WEY5FRKWINB544XWJIJGDOBW2EAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
