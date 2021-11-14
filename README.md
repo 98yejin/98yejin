@@ -2,7 +2,7 @@
 
 <br>
 
-### :blue_heart: Github Status & Problem Solving
+### Github Status & Problem Solving
 
 |Github Status|Solved.ac Tier|
 |-------------|--------------|
