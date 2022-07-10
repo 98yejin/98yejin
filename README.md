@@ -4,8 +4,8 @@
 
 ### Github Status & Problem Solving
 
-|Github Status|Solved.ac Tier|
-|-------------|--------------|
-|![GitHub stats](https://github-readme-stats.vercel.app/api?username=98yejin&show_icons=true&theme=buefy&count_private=true)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o0o2211915)](https://solved.ac/o0o2211915)|
+|Github Status|
+|-------------|
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=98yejin&show_icons=true&theme=buefy&count_private=true)|
 
 <br>
