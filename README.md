@@ -4,8 +4,7 @@
 
 ### Github Status & Problem Solving
 
-|Github Status|
-|-------------|
-|![GitHub stats](https://github-readme-stats.vercel.app/api?username=98yejin&show_icons=true&theme=buefy&count_private=true)|
-
+|Github|Leetcode|
+|-------------|-------------|
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=98yejin&show_icons=true&theme=buefy&count_private=true)|![Leetcode stats](https://leetcode-solved-problems.vercel.app/api?username=o0o2211915&name=yejin🐣)|
 <br>
