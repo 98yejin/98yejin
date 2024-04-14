@@ -8,7 +8,7 @@
   </a>
 </span>
 <span>
-  <a href="www.linkedin.com/in/yejin-park-28a3a314b">
+  <a href="https://linkedin.com/in/yejin-park-28a3a314b">
     <img src="https://img.shields.io/badge/linkedin-2376b3">
   </a>
 </span>
